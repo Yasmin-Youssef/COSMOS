@@ -24,7 +24,7 @@ Explore the universe through an interactive space dashboard! COSMOS brings toget
 
 Explore the live version of COSMOS:
 
-**Live Demo:** [View COSMOS Dashboard](https://awatefhassan56-coder.github.io/cosmos-space-dashboard-route.vercel.app-/)
+**Live Demo:** [View COSMOS Dashboard]( https://yasmin-youssef.github.io/COSMOS/)
 
 ## 🚀 Getting Started
 
@@ -33,7 +33,7 @@ To run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   https://yasmin-youssef.github.io/COSMOS/
    ```
 
 2. Open the project folder in Visual Studio Code.
